@@ -1,0 +1,9 @@
+{
+    "language": "ja",
+    "plugins": [
+        "-sharing",
+        "hide-published-with",
+        "expand-active-chapter",
+        "collapsible-chapters"
+    ]
+}
