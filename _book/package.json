@@ -1,6 +1,0 @@
-{
-  "homepage": "https://bamv-ikeda.github.io/gitbook",
-  "scripts": {
-    "gitbook": "gitbook serve"
-  }
-}

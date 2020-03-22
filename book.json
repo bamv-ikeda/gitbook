@@ -3,7 +3,11 @@
     "plugins": [
         "-sharing",
         "hide-published-with",
+        "custom-favicon",
         "expand-active-chapter",
         "collapsible-chapters"
-    ]
+    ],
+    "pluginsConfig": {
+      "favicon": "./assets/images/icon/favicon.ico"
+    }
 }
